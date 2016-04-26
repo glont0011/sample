@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 ‚ ‚¢‚¤‚¦‚¨
+=======
+text
+text
+new text
+>>>>>>> master
